@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"What fresh hell is this?" -Dorothy Parker
 Use the left arrow to go back!
